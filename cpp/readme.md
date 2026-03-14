@@ -1,3 +1,7 @@
+# cpp
+
+## commands
+
 ```sh
 winget install Microsoft.VisualStudio.2022.BuildTools --override "--add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --passive" --source winget
 ```
@@ -45,3 +49,8 @@ cmake --build build/
 ```sh
 ./build/Application
 ```
+
+## links
+
+1. [modules-example](https://github.com/feabhas/Cpp20-Modules-getting-started)
+2. [modules-article](https://habr.com/ru/companies/otus/articles/742818/)
